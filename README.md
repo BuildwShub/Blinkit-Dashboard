@@ -108,6 +108,15 @@ To conduct a comprehensive analysis of Blinkit’s sales performance, customer s
     <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20133423.png" alt="Beautiful sunset" width="250" height="300" />
 </div>
 </ul>
+<li><h3>Total Sales by Outlet Establishment :</h3></li>
+<ul style="list-style-type: none; padding: 0; margin: 0;">
+  <li><b>Objective :</b>Evaluate how the age or type of outlet establishment influences total sales.</li>
+  <li><b>Chart Type :</b>Line Chart.</li>
+<br>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20113759.png" alt="Beautiful sunset"  height="200" />
+</div>
+</ul>
 
 </ol>
 

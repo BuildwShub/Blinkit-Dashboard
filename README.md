@@ -69,7 +69,7 @@ To conduct a comprehensive analysis of Blinkit’s sales performance, customer s
 ## **Chart’s Requirements**
 
 <h3>Total Sales by Fat Content:</h3>
-<ul style="list-style-type: none; padding-left: 0;">
+<ul style=style="list-style: none; padding: 0; margin: 0;">
   <li><b>Objective :</b> Analyze the impact of fat content on total sales.</li>
   <li><b>Additional KPI Metrics :</b> Assess how other KPIs(Average Sales, Number of items, Average Rating) vary with fat content.</li>
   <li><b>Chart Type :</b>Donut Chart.</li>

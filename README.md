@@ -1,205 +1,163 @@
 # Blinkit Analysis in Power BI
 
-This project uses Power BI Desktop and Excel to conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and strategies to prevent customer loss and improve service.
+This project uses **Power BI Desktop** and **Excel** to conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and strategies to improve service and prevent customer loss.
+
+---
 
 ## Demo
 
-Insert gif or link to demo
+_Add a gif or link to your demo here._
+
+---
 
 ## Key Features
 
-📌 **Data Visualization**: Interactive dashboards to provide clear insights into key metrics.
+📌 **Data Visualization**: Interactive dashboards with insights into sales, customer satisfaction, and inventory metrics.
 
-📌**Trends Analysis**: Identifies performance trends over time.
+📌 **Trends Analysis**: Identifies performance trends over time, allowing strategic decision-making.
 
-📌**Dynamic Reporting**: Easily filterable reports to focus on specific aspects of the dataset.
+📌 **Dynamic Reporting**: Filterable reports for exploring different dimensions of data.
 
-📌**KPIs Monitoring**: Highlights the most critical performance indicators.
+📌 **KPI Monitoring**: Highlights critical indicators like total sales, average sales, and customer ratings.
+
+---
 
 ## Screenshots
 
-![App Screenshot](https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20093017.png)
+![Dashboard Screenshot](https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20093017.png)
+
+---
 
 ## Tools Used
 
-**Power BI:** For data modeling, visualization, and dashboard creation.
+- **Power BI**: For data modeling, visualization, and dashboard creation.
+- **Excel/CSV**: For initial data preprocessing.
 
-**Excel/CSV:** For initial data preprocessing.
+---
 
-## STEPS IN PROJECT
+## Steps in the Project
 
-✔️ Requirement Gathering / Business Requirements
+1. **Requirement Gathering / Business Requirements**
+2. **Data Walkthrough**
+3. **Data Connection**
+4. **Data Cleaning/Quality Check**
+5. **Data Modeling**
+6. **Data Processing**
+7. **DAX Calculations**
+8. **Dashboard Layout Design**
+9. **Chart Development and Formatting**
+10. **Dashboard / Report Development**
+11. **Insights Generation**
 
-✔️ Data Walkthrough
+---
 
-✔️ Data Connection
+## Business Requirement
 
-✔️ Data Cleaning/Quality Check
+To conduct a comprehensive analysis of Blinkit’s sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
 
-✔️ Data Modeling
+---
 
-✔️ Data Processing
+## KPIs Requirements
 
-✔️ DAX Calculations
+1. **Total Sales**: The overall revenue generated from all items sold.
+2. **Average Sales**: The average revenue per sale.
+3. **Number of Items**: The total count of different items sold.
+4. **Average Rating**: The average customer rating from items sold.
 
-✔️ Dashboard Lay outing
+![KPI Screenshot](https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20113824.png)
 
-✔️ Charts Development and Formatting
+---
 
-✔️ Dashboard / Report Development
+## Chart Requirements
 
-✔️ Insights Generation
+### 1. Total Sales by Fat Content
 
-## BUSINESS REQUIREMENT
+**Objective**: Analyze the impact of fat content on total sales.  
+**Additional Metrics**: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.  
+**Chart Type**: Donut Chart
 
-To conduct a comprehensive analysis of Blinkit’s sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualization in Power BI
+![Chart Screenshot](https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20113851.png)
 
-## KPI’s Requirements
+---
 
-**1. Total Sales:** The overall revenue generated from all items sold.
+### 2. Total Sales by Item Type
 
-**2. Average Sales:** The average revenue per sale.
+**Objective**: Identify the performance of different item types in terms of total sales.  
+**Additional Metrics**: Assess how other KPIs vary by item type.  
+**Chart Type**: Bar Chart
 
-**3. Number of Items:** The total count of different items sold.
+![Chart Screenshot](https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20113909.png)
 
-**4. Average Rating :** The average customer rating from items sold.
+---
 
-![App Screenshot](https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20113824.png)
+### 3. Fat Content by Outlet for Total Sales
 
-## **Chart’s Requirements**
+**Objective**: Compare total sales across different outlets segmented by fat content.  
+**Additional Metrics**: Assess KPIs such as Average Sales, Number of Items, and Ratings.  
+**Chart Type**: Stacked Column Chart
 
-<ol>
-<li><h3>Total Sales by Fat Content:</h3></li>
-<ul style="list-style-type: none; padding: 0; margin: 0;">
-  <li><b>Objective :</b> Analyze the impact of fat content on total sales.</li>
-  <li><b>Additional KPI Metrics :</b> Assess how other KPIs(Average Sales, Number of items, Average Rating) vary with fat content.</li>
-  <li><b>Chart Type :</b>Donut Chart.</li>
-<br>
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://raw.githubusercontent.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/main/imges/Screenshot%202024-12-15%20113851.png" alt="Beautiful sunset" width="250" height="200" />
-    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20114724.png" alt="Beautiful sunset" width="250" height="200" />
-    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20114740.png" alt="Beautiful sunset" width="250" height="200" />
-    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20114757.png" alt="Beautiful sunset" width="250" height="200" />
-</div>
-</ul>
-<li><h3>Total Sales By Item Type :</h3></li>
-<ul style="list-style-type: none; padding: 0; margin: 0;">
-  <li><b>Objective :</b>Identify the performance of different item type in terms of total sales.</li>
-  <li><b>Additional KPI Metrics :</b> Assess how other KPIs(Average Sales, Number of items, Average Rating) vary with fat content.</li>
-  <li><b>Chart Type :</b>Bar Chart.</li>
-<br>
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20113909.png" alt="Beautiful sunset" width="250" height="200" />
-    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20132423.png" alt="Beautiful sunset" width="250" height="200" />
-    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20132443.png" alt="Beautiful sunset" width="250" height="200" />
-    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20132501.png" alt="Beautiful sunset" width="250" height="200" />
-</div>
-</ul>
-<li><h3>Fat Content by Outlet for Total Sales :</h3></li>
-<ul style="list-style-type: none; padding: 0; margin: 0;">
-  <li><b>Objective :</b>compare total sales across different outlets segmented by fat content.</li>
-  <li><b>Additional KPI Metrics :</b> Assess how other KPIs(Average Sales, Number of items, Average Rating) vary with fat content.</li>
-  <li><b>Chart Type :</b>Stacked Column Chart.</li>
-<br>
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20134850.png" alt="Beautiful sunset" width="250" height="300" />
-    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20133327.png" alt="Beautiful sunset" width="250" height="300" />
-    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20133343.png" alt="Beautiful sunset" width="250" height="300" />
-    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20133423.png" alt="Beautiful sunset" width="250" height="300" />
-</div>
-</ul>
-<li><h3>Total Sales by Outlet Establishment :</h3></li>
-<ul style="list-style-type: none; padding: 0; margin: 0;">
-  <li><b>Objective :</b>Evaluate how the age or type of outlet establishment influences total sales.</li>
-  <li><b>Chart Type :</b>Line Chart.</li>
-<br>
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20113759.png" alt="Beautiful sunset"  height="200" />
-</div>
-</ul>
-<li><h3>Total Sales by Outlet Establishment :</h3></li>
-<ul style="list-style-type: none; padding: 0; margin: 0;">
-  <li><b>Objective :</b>Analyze the correlation between outlet size and total sales.</li>
-  <li><b>Chart Type :</b>Donut /  Pie Chart.</li>
-<br>
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20114209.png" alt="Beautiful sunset"  height="200" />
-</div>
-</ul>
-<li><h3>Sales by Outlet Location :</h3></li>
-<ul style="list-style-type: none; padding: 0; margin: 0;">
-  <li><b>Objective :</b>Assess the geographic distribution of sales across different locations.</li>
-  <li><b>Chart Type :</b>Funnel Map.</li>
-<br>
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20105852.png" alt="Beautiful sunset"  height="200" />
-</div>
-</ul>
-</ul>
-<li><h3>Total Sales by Outlet Establishment :</h3></li>
-<ul style="list-style-type: none; padding: 0; margin: 0;">
-  <li><b>Objective :</b>Provide a comprehensive view of all key metrics(Total Sales, Average Sales, Number of items, Average Rating) </li>
-  <li><b>Chart Type :</b>Matrix Card.</li>
-<br>
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20110200.png" alt="Beautiful sunset"  height="200" />
-</div>
-</ul>
-</ol>
+![Chart Screenshot](https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20134850.png)
 
-## Installation
+---
 
-Install my-project with npm
+### 4. Total Sales by Outlet Establishment Type
 
-```bash
-  npm install my-project
-  cd my-project
-```
+**Objective**: Evaluate how the age or type of outlet establishment influences total sales.  
+**Chart Type**: Line Chart
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Chart Screenshot](https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20113759.png)
+
+---
+
+### 5. Total Sales by Outlet Size
+
+**Objective**: Analyze the correlation between outlet size and total sales.  
+**Chart Type**: Donut / Pie Chart
+
+![Chart Screenshot](https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20114209.png)
+
+---
+
+### 6. Sales by Outlet Location
+
+**Objective**: Assess the geographic distribution of sales across different locations.  
+**Chart Type**: Funnel Map
+
+![Chart Screenshot](https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20105852.png)
+
+---
+
+### 7. Comprehensive Metrics
+
+**Objective**: Provide an overview of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating).  
+**Chart Type**: Matrix Card
+
+![Chart Screenshot](https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20110200.png)
+
+---
 
 ## Lessons Learned
 
-What did you learn while building this project? What challenges did you face and how did you overcome them?
+During this project, I learned:
 
-## Usage/Examples
+- The importance of data cleaning for ensuring accuracy in reports.
+- Effective use of DAX calculations to create meaningful KPIs.
+- Designing dashboards to improve user experience and interactivity.
+- Overcoming challenges like optimizing performance for large datasets and aligning business requirements with technical capabilities.
 
-```javascript
-import Component from "my-project";
-
-function App() {
-  return <Component />;
-}
-```
+---
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://prajwalgopalpoojary.netlify.app/)  
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-poojary/)  
+[![GitHub](https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrajwalGpy/)
 
-## 🛠 Skills
+---
 
-Javascript, HTML, CSS...
+## 🛠 Tools and Skills
 
-## 🚀 About Me
-
-I'm a full stack developer...
-
-## Other Common Github Profile Sections
-
-👩‍💻 I'm currently working on...
-
-🧠 I'm currently learning...
-
-👯‍♀️ I'm looking to collaborate on...
-
-🤔 I'm looking for help with...
-
-💬 Ask me about...
-
-📫 How to reach me...
-
-😄 Pronouns...
-
-⚡️ Fun fact...
+- **Power BI**: Data visualization and dashboard creation
+- **Excel**: Data cleaning and preprocessing
+- **DAX**: Custom KPIs and calculations
+- **Data Analysis**: Insights generation and reporting

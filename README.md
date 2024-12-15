@@ -76,12 +76,8 @@ To conduct a comprehensive analysis of Blinkit’s sales performance, customer s
 **Chart Type :** Donut Chart.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <div style="width: fit-content; height: fit-content;">
-        <img src="https://raw.githubusercontent.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/main/imges/Screenshot%202024-12-15%20113851.png" alt="Image 1" style="max-width: 100%; max-height: 100%; object-fit: contain;" />
-    </div>
-    <div style="width: fit-content; height: fit-content;">
-        <img src="https://raw.githubusercontent.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/main/imges/Screenshot%202024-12-15%20113851.png" alt="Image 2" style="max-width: 100%; max-height: 100%; object-fit: contain;" />
-    </div>
+    <img src="https://raw.githubusercontent.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/main/imges/Screenshot%202024-12-15%20113851.png" alt="Beautiful sunset" width="300" height="200" />
+    <img src="https://raw.githubusercontent.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/main/imges/Screenshot%202024-12-15%20113851.png" alt="Beautiful sunset" width="300" height="200" />
 </div>
 
 ## Installation

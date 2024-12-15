@@ -74,8 +74,11 @@ To conduct a comprehensive analysis of Blinkit’s sales performance, customer s
 **Additional KPI Metrics :** Assess how other KPIs(Average Sales, Number of items, Average Rating) vary with fat content .
 
 **Chart Type :** Donut Chart.
-![App Screenshot](https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20113851.png)
-![App Screenshot](https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20113851.png)
+
+<div>
+<img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20113851.png" alt="Beautiful sunset" width="500" height="300" />
+<img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20113851.png" alt="Beautiful sunset" width="500" height="300" />
+</div>
 
 ## Installation
 

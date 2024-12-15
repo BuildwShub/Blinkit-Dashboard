@@ -71,7 +71,7 @@ To conduct a comprehensive analysis of Blinkit’s sales performance, customer s
 ## **Chart’s Requirements**
 
 <ol>
-<li><h3>Total Sales by Fat Content:</h3></li>
+<h3><li>Total Sales by Fat Content:</li></h3>
 <ul style="list-style-type: none; padding: 0; margin: 0;">
   <li><b><ins>Objective :</ins></b> Analyze the impact of fat content on total sales.</li>
   <li><b>Additional KPI Metrics :</b> Assess how other KPIs(Average Sales, Number of items, Average Rating) vary with fat content.</li>
@@ -84,7 +84,7 @@ To conduct a comprehensive analysis of Blinkit’s sales performance, customer s
     <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20114757.png" alt="Beautiful sunset" width="250" height="200" />
 </div>
 </ul>
-<li><h3>Total Sales By Item Type :</h3></li>
+<h3><li>Total Sales By Item Type :</li></h3>
 <ul style="list-style-type: none; padding: 0; margin: 0;">
   <li><b>Objective :</b>Identify the performance of different item type in terms of total sales.</li>
   <li><b>Additional KPI Metrics :</b> Assess how other KPIs(Average Sales, Number of items, Average Rating) vary with fat content.</li>
@@ -97,7 +97,7 @@ To conduct a comprehensive analysis of Blinkit’s sales performance, customer s
     <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20132501.png" alt="Beautiful sunset" width="250" height="200" />
 </div>
 </ul>
-<li><h3>Fat Content by Outlet for Total Sales :</h3></li>
+<h3><li>Fat Content by Outlet for Total Sales :</li></h3>
 <ul style="list-style-type: none; padding: 0; margin: 0;">
   <li><b>Objective :</b>compare total sales across different outlets segmented by fat content.</li>
   <li><b>Additional KPI Metrics :</b> Assess how other KPIs(Average Sales, Number of items, Average Rating) vary with fat content.</li>
@@ -110,7 +110,7 @@ To conduct a comprehensive analysis of Blinkit’s sales performance, customer s
     <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20133423.png" alt="Beautiful sunset" width="250" height="300" />
 </div>
 </ul>
-<li><h3>Total Sales by Outlet Establishment :</h3></li>
+<h3><li>Total Sales by Outlet Establishment :</li></h3>
 <ul style="list-style-type: none; padding: 0; margin: 0;">
   <li><b>Objective :</b>Evaluate how the age or type of outlet establishment influences total sales.</li>
   <li><b>Chart Type :</b>Line Chart.</li>
@@ -119,7 +119,7 @@ To conduct a comprehensive analysis of Blinkit’s sales performance, customer s
     <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20113759.png" alt="Beautiful sunset"  height="200" />
 </div>
 </ul>
-<li><h3>Total Sales by Outlet Establishment :</h3></li>
+<h3><li>Total Sales by Outlet Establishment :</li></h3>
 <ul style="list-style-type: none; padding: 0; margin: 0;">
   <li><b>Objective :</b>Analyze the correlation between outlet size and total sales.</li>
   <li><b>Chart Type :</b>Donut /  Pie Chart.</li>
@@ -128,7 +128,7 @@ To conduct a comprehensive analysis of Blinkit’s sales performance, customer s
     <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20114209.png" alt="Beautiful sunset"  height="200" />
 </div>
 </ul>
-<li><h3>Sales by Outlet Location :</h3></li>
+<h3><li>Sales by Outlet Location :</li></h3>
 <ul style="list-style-type: none; padding: 0; margin: 0;">
   <li><b>Objective :</b>Assess the geographic distribution of sales across different locations.</li>
   <li><b>Chart Type :</b>Funnel Map.</li>
@@ -138,7 +138,7 @@ To conduct a comprehensive analysis of Blinkit’s sales performance, customer s
 </div>
 </ul>
 </ul>
-<li><h3>Total Sales by Outlet Establishment :</h3></li>
+<h3><li>Total Sales by Outlet Establishment :</li></h3>
 <ul style="list-style-type: none; padding: 0; margin: 0;">
   <li><b>Objective :</b>Provide a comprehensive view of all key metrics(Total Sales, Average Sales, Number of items, Average Rating) </li>
   <li><b>Chart Type :</b>Matrix Card.</li>

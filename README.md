@@ -153,6 +153,47 @@ To conduct a comprehensive analysis of Blinkit’s sales performance, customer s
 </ul>
 </ol>
 
+## Dashboard Insights
+
+### Key Insights:
+
+1. **Customer Trends**: Analyze customer purchase behavior.
+2. **Revenue Patterns**: Track revenue trends across different time frames.
+3. **Product Performance**: Identify high-performing products.
+4. **Order Analysis**: Assess order distribution and efficiency.
+
+### Interactive Features:
+
+- Drill-through options to explore details at multiple levels.
+- Custom slicers for dynamic filtering.
+- KPIs displayed in real-time visuals.
+
+## How to Use
+
+1. Download the Power BI file: `Blinckit DA Project.pbix`
+2. Open the file in **Power BI Desktop**.
+3. Explore the dashboards and insights interactively.
+
+## File Details
+
+- **File Name**: `Blinckit DA Project.pbix`
+- **Size**: [Add the file size, e.g., 5 MB]
+- **Last Updated**: [Add the last update date]
+
+## Contact
+
+For any queries or feedback, feel free to reach out:
+
+- **Name**: Prajwal Gopal Poojary
+- **Email**: [Your Email Address]
+- **Portfolio**: https://prajwalgopalpoojary.netlify.app/
+
+---
+
+## Acknowledgments
+
+Special thanks to the Blinckit team for providing the data used in this analysis.
+
 ## Installation
 
 Install my-project with npm

@@ -95,7 +95,21 @@ To conduct a comprehensive analysis of Blinkit’s sales performance, customer s
     <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20132501.png" alt="Beautiful sunset" width="250" height="200" />
 </div>
 </ul>
-</li>
+<li><h3>Fat Content by Outlet for Total Sales :</h3></li>
+<ul style="list-style-type: none; padding: 0; margin: 0;">
+  <li><b>Objective :</b>compare total sales across different outlets segmented by fat content.</li>
+  <li><b>Additional KPI Metrics :</b> Assess how other KPIs(Average Sales, Number of items, Average Rating) vary with fat content.</li>
+  <li><b>Chart Type :</b>Stacked Column Chart.</li>
+<br>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20113909.png" alt="Beautiful sunset" width="250" height="200" />
+    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20132423.png" alt="Beautiful sunset" width="250" height="200" />
+    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20132443.png" alt="Beautiful sunset" width="250" height="200" />
+    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20132501.png" alt="Beautiful sunset" width="250" height="200" />
+</div>
+</ul>
+
+</ol>
 
 ## Installation
 

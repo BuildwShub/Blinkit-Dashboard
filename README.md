@@ -162,15 +162,14 @@ To conduct a comprehensive analysis of Blinkit’s sales performance, customer s
 
 ## 📂 How to Use
 
-1. Download the Power BI file: `Blinckit DA Project.pbix`
+1. Download the Power BI file: `Blinkit DA Project.pbix`
 2. Open the file in **Power BI Desktop**.
 3. Explore the dashboards and insights interactively.
 
 ## 📋 File Details
 
-- **File Name**: `Blinckit DA Project.pbix`
-- **Size**: [Add the file size, e.g., 5 MB]
-- **Last Updated**: [Add the last update date]
+- **File Name**: `Blinkit DA Project.pbix`
+- **Size**: `345 KB`
 
 ## 📧 Contact
 
@@ -184,7 +183,8 @@ For any queries or feedback, feel free to reach out:
 
 ## 🙌 Acknowledgments
 
-Special thanks to the Blinkit team for providing the data used in this analysis.
+Special thanks to the Blinkit team for providing the data used in this analysis.  
+A big shoutout to [Data Tutorials](https://www.youtube.com/@datatutorials1) for their helpful tutorial that guided this project. Watch the full tutorial [here](https://www.youtube.com/watch?v=mmxVCFceQgU).
 
 ## 🔗 Links
 

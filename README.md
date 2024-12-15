@@ -68,12 +68,13 @@ To conduct a comprehensive analysis of Blinkit’s sales performance, customer s
 
 ## **Chart’s Requirements**
 
-1.  **Total Sales by Fat Content:**
-    **Objective :** Analyze the impact of fat content on total sales.
-
-**Additional KPI Metrics :** Assess how other KPIs(Average Sales, Number of items, Average Rating) vary with fat content .
-
-**Chart Type :** Donut Chart.
+<h3>Total Sales by Fat Content:</h3>
+<ul style="list-style-type: none; padding-left: 0;">
+  <li><b>Objective :</b> Analyze the impact of fat content on total sales.</li>
+  <li><b>Additional KPI Metrics :</b> Assess how other KPIs(Average Sales, Number of items, Average Rating) vary with fat content.</li>
+  <li><b>Chart Type :</b>Donut Chart.</li>
+ 
+</ul>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <img src="https://raw.githubusercontent.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/main/imges/Screenshot%202024-12-15%20113851.png" alt="Beautiful sunset" width="250" height="200" />

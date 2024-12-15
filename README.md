@@ -102,10 +102,10 @@ To conduct a comprehensive analysis of Blinkit’s sales performance, customer s
   <li><b>Chart Type :</b>Stacked Column Chart.</li>
 <br>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20113934.png" alt="Beautiful sunset" width="250" height="200" />
-    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20133327.png" alt="Beautiful sunset" width="250" height="200" />
-    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20133343.png" alt="Beautiful sunset" width="250" height="200" />
-    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20133423.png" alt="Beautiful sunset" width="250" height="200" />
+    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20113934.png" alt="Beautiful sunset" width="250" height="300" />
+    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20133327.png" alt="Beautiful sunset" width="250" height="300" />
+    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20133343.png" alt="Beautiful sunset" width="250" height="300" />
+    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20133423.png" alt="Beautiful sunset" width="250" height="300" />
 </div>
 </ul>
 

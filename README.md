@@ -20,15 +20,21 @@ Insert gif or link to demo
 
 📌**KPIs Monitoring**: Highlights the most critical performance indicators.
 
-## Screenshots
+---
 
 ![App Screenshot](https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20093017.png)
 
-## Tools Used
+---
+
+<h1> Tools Used</h1>
+
+---
 
 **Power BI:** For data modeling, visualization, and dashboard creation.
 
 **Excel/CSV:** For initial data preprocessing.
+
+---
 
 ## STEPS IN PROJECT
 

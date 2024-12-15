@@ -117,7 +117,34 @@ To conduct a comprehensive analysis of Blinkit’s sales performance, customer s
     <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20113759.png" alt="Beautiful sunset"  height="200" />
 </div>
 </ul>
-
+<li><h3>Total Sales by Outlet Establishment :</h3></li>
+<ul style="list-style-type: none; padding: 0; margin: 0;">
+  <li><b>Objective :</b>Analyze the correlation between outlet size and total sales.</li>
+  <li><b>Chart Type :</b>Donut /  Pie Chart.</li>
+<br>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20114209.png" alt="Beautiful sunset"  height="200" />
+</div>
+</ul>
+<li><h3>Sales by Outlet Location :</h3></li>
+<ul style="list-style-type: none; padding: 0; margin: 0;">
+  <li><b>Objective :</b>Assess the geographic distribution of sales across different locations.</li>
+  <li><b>Chart Type :</b>Funnel Map.</li>
+<br>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20105852.png" alt="Beautiful sunset"  height="200" />
+</div>
+</ul>
+</ul>
+<li><h3>Total Sales by Outlet Establishment :</h3></li>
+<ul style="list-style-type: none; padding: 0; margin: 0;">
+  <li><b>Objective :</b>Provide a comprehensive view of all key metrics(Total Sales, Average Sales, Number of items, Average Rating) </li>
+  <li><b>Chart Type :</b>Matrix Card.</li>
+<br>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20110200.png" alt="Beautiful sunset"  height="200" />
+</div>
+</ul>
 </ol>
 
 ## Installation

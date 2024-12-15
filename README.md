@@ -68,7 +68,8 @@ To conduct a comprehensive analysis of Blinkit’s sales performance, customer s
 
 ## **Chart’s Requirements**
 
-<h3>Total Sales by Fat Content:</h3>
+<ol>
+<li><h3>Total Sales by Fat Content:</h3></li>
 <ul style="list-style-type: none; padding: 0; margin: 0;">
   <li><b>Objective :</b> Analyze the impact of fat content on total sales.</li>
   <li><b>Additional KPI Metrics :</b> Assess how other KPIs(Average Sales, Number of items, Average Rating) vary with fat content.</li>
@@ -82,6 +83,22 @@ To conduct a comprehensive analysis of Blinkit’s sales performance, customer s
     <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20114740.png" alt="Beautiful sunset" width="250" height="200" />
     <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20114757.png" alt="Beautiful sunset" width="250" height="200" />
 </div>
+
+<li><h3>Total Sales by Fat Content:</h3></li>
+<ul style="list-style-type: none; padding: 0; margin: 0;">
+  <li><b>Objective :</b> Analyze the impact of fat content on total sales.</li>
+  <li><b>Additional KPI Metrics :</b> Assess how other KPIs(Average Sales, Number of items, Average Rating) vary with fat content.</li>
+  <li><b>Chart Type :</b>Donut Chart.</li>
+ 
+</ul>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="https://raw.githubusercontent.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/main/imges/Screenshot%202024-12-15%20113851.png" alt="Beautiful sunset" width="250" height="200" />
+    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20114724.png" alt="Beautiful sunset" width="250" height="200" />
+    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20114740.png" alt="Beautiful sunset" width="250" height="200" />
+    <img src="https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/imges/Screenshot%202024-12-15%20114757.png" alt="Beautiful sunset" width="250" height="200" />
+</div>
+</li>
 
 ## Installation
 

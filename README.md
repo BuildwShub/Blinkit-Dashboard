@@ -4,7 +4,7 @@ This project uses Power BI Desktop and Excel to conduct a comprehensive analysis
 
 ## 🎥 Demo
 
-Insert gif or link to demo
+[Demo](https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/Blinkit%20DA%20Project%20DEMO.gif)
 
 ## ✨ Key Features
 

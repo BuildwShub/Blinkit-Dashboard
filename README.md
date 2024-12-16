@@ -168,8 +168,13 @@ To conduct a comprehensive analysis of Blinkit’s sales performance, customer s
 
 ## 📋 File Details
 
-- **File Name**: `Blinkit DA Project.pbix`
+- **File Name**: `Blinkit DA Project.pbix`[Download File Here](https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/Blinkit%20DA%20Project.pbix)
+
 - **Size**: `345 KB`
+
+- **File Name**: `BlinkIT Grocery Data.xlsx`[Download File Here](https://github.com/PrajwalGpy/Blinkit-Analysis-in-Power-BI/blob/main/BlinkIT%20Grocery%20Data.xlsx)
+
+- **Size**: `581 KB`
 
 ## 📧 Contact
 

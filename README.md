@@ -1,4 +1,4 @@
-# 📊 Blinkit Analysis in Power BI
+# Blinkit Dashboard | PowerBI
 
 This project uses Power BI Desktop and Excel to conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and strategies to prevent customer loss and improve service.
 
